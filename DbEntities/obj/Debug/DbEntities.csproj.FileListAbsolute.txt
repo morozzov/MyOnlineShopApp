@@ -1,0 +1,18 @@
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbEntities\bin\Debug\DbEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbEntities\bin\Debug\DbEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbEntities\obj\Debug\DbEntities.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbEntities\obj\Debug\DbEntities.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbEntities\obj\Debug\DbEntities.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbEntities\obj\Debug\DbEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbEntities\obj\Debug\DbEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\DbEntities\bin\Debug\DbEntities.dll
+D:\MVS\III year\MyOnlineShopApp\DbEntities\bin\Debug\DbEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\DbEntities\bin\Debug\Newtonsoft.Json.dll
+D:\MVS\III year\MyOnlineShopApp\DbEntities\bin\Debug\Newtonsoft.Json.xml
+D:\MVS\III year\MyOnlineShopApp\DbEntities\obj\Debug\DbEntities.csprojAssemblyReference.cache
+D:\MVS\III year\MyOnlineShopApp\DbEntities\obj\Debug\DbEntities.csproj.CoreCompileInputs.cache
+D:\MVS\III year\MyOnlineShopApp\DbEntities\obj\Debug\DbEntities.csproj.CopyComplete
+D:\MVS\III year\MyOnlineShopApp\DbEntities\obj\Debug\DbEntities.dll
+D:\MVS\III year\MyOnlineShopApp\DbEntities\obj\Debug\DbEntities.pdb

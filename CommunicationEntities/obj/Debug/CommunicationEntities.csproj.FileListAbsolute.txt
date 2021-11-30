@@ -1,0 +1,18 @@
+C:\Users\R M G\Desktop\MyOnlineShopApp\CommunicationEntities\bin\Debug\CommunicationEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\CommunicationEntities\bin\Debug\CommunicationEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\CommunicationEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\CommunicationEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\CommunicationEntities\obj\Debug\CommunicationEntities.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\CommunicationEntities\obj\Debug\CommunicationEntities.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\CommunicationEntities\obj\Debug\CommunicationEntities.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineShopApp\CommunicationEntities\obj\Debug\CommunicationEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\CommunicationEntities\obj\Debug\CommunicationEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\CommunicationEntities\bin\Debug\CommunicationEntities.dll
+D:\MVS\III year\MyOnlineShopApp\CommunicationEntities\bin\Debug\CommunicationEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\CommunicationEntities\bin\Debug\Newtonsoft.Json.dll
+D:\MVS\III year\MyOnlineShopApp\CommunicationEntities\bin\Debug\Newtonsoft.Json.xml
+D:\MVS\III year\MyOnlineShopApp\CommunicationEntities\obj\Debug\CommunicationEntities.csprojAssemblyReference.cache
+D:\MVS\III year\MyOnlineShopApp\CommunicationEntities\obj\Debug\CommunicationEntities.csproj.CoreCompileInputs.cache
+D:\MVS\III year\MyOnlineShopApp\CommunicationEntities\obj\Debug\CommunicationEntities.csproj.CopyComplete
+D:\MVS\III year\MyOnlineShopApp\CommunicationEntities\obj\Debug\CommunicationEntities.dll
+D:\MVS\III year\MyOnlineShopApp\CommunicationEntities\obj\Debug\CommunicationEntities.pdb

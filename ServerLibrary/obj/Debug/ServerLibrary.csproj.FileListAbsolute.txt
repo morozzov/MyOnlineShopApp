@@ -1,0 +1,22 @@
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\bin\Debug\ServerLibrary.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\bin\Debug\ServerLibrary.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\bin\Debug\CommunicationEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\bin\Debug\CommunicationEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\obj\Debug\ServerLibrary.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\obj\Debug\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\obj\Debug\ServerLibrary.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\obj\Debug\ServerLibrary.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\ServerLibrary\obj\Debug\ServerLibrary.pdb
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\bin\Debug\ServerLibrary.dll
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\bin\Debug\ServerLibrary.pdb
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\bin\Debug\CommunicationEntities.dll
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\bin\Debug\CommunicationEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\obj\Debug\ServerLibrary.csprojAssemblyReference.cache
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\obj\Debug\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\obj\Debug\ServerLibrary.csproj.CopyComplete
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\obj\Debug\ServerLibrary.dll
+D:\MVS\III year\MyOnlineShopApp\ServerLibrary\obj\Debug\ServerLibrary.pdb

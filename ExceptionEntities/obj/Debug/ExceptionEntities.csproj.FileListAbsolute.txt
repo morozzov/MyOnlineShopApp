@@ -1,0 +1,17 @@
+C:\Users\R M G\Desktop\MyOnlineShopApp\ExceptionEntities\bin\Debug\ExceptionEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\ExceptionEntities\bin\Debug\ExceptionEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\ExceptionEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\ExceptionEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\ExceptionEntities\obj\Debug\ExceptionEntities.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\ExceptionEntities\obj\Debug\ExceptionEntities.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineShopApp\ExceptionEntities\obj\Debug\ExceptionEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\ExceptionEntities\obj\Debug\ExceptionEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\ExceptionEntities\bin\Debug\ExceptionEntities.dll
+D:\MVS\III year\MyOnlineShopApp\ExceptionEntities\bin\Debug\ExceptionEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\ExceptionEntities\bin\Debug\Newtonsoft.Json.dll
+D:\MVS\III year\MyOnlineShopApp\ExceptionEntities\bin\Debug\Newtonsoft.Json.xml
+D:\MVS\III year\MyOnlineShopApp\ExceptionEntities\obj\Debug\ExceptionEntities.csprojAssemblyReference.cache
+D:\MVS\III year\MyOnlineShopApp\ExceptionEntities\obj\Debug\ExceptionEntities.csproj.CoreCompileInputs.cache
+D:\MVS\III year\MyOnlineShopApp\ExceptionEntities\obj\Debug\ExceptionEntities.csproj.CopyComplete
+D:\MVS\III year\MyOnlineShopApp\ExceptionEntities\obj\Debug\ExceptionEntities.dll
+D:\MVS\III year\MyOnlineShopApp\ExceptionEntities\obj\Debug\ExceptionEntities.pdb

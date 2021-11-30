@@ -1,0 +1,57 @@
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\WFClient.exe.config
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\WFClient.exe
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\WFClient.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\ClientLibrary.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\CommunicationEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\DBEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\ClientLibrary.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\CommunicationEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\DBEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.Properties.Resources.resources
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.View.AuthenForm.resources
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.csproj.GenerateResource.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.exe
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\obj\Debug\WFClient.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\obj\Debug\WFClient.Properties.Resources.resources
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\obj\Debug\WFClient.View.AuthenForm.resources
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\obj\Debug\WFClient.csproj.GenerateResource.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\obj\Debug\WFClient.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\obj\Debug\WFClient.exe
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\obj\Debug\WFClient.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\WFClient.exe.config
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\WFClient.exe
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\WFClient.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\ClientLib.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\CommunicationEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\DbEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\ClientLib.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\CommunicationEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\DbEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\WFClient\obj\Debug\WFClient.csproj.CopyComplete
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\WFClient.exe.config
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\WFClient.exe
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\WFClient.pdb
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\ClientLib.dll
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\CommunicationEntities.dll
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\DbEntities.dll
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\Newtonsoft.Json.dll
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\ClientLib.pdb
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\CommunicationEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\DbEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\WFClient\bin\Debug\Newtonsoft.Json.xml
+D:\MVS\III year\MyOnlineShopApp\WFClient\obj\Debug\WFClient.csprojAssemblyReference.cache
+D:\MVS\III year\MyOnlineShopApp\WFClient\obj\Debug\WFClient.Properties.Resources.resources
+D:\MVS\III year\MyOnlineShopApp\WFClient\obj\Debug\WFClient.View.AuthenForm.resources
+D:\MVS\III year\MyOnlineShopApp\WFClient\obj\Debug\WFClient.csproj.GenerateResource.cache
+D:\MVS\III year\MyOnlineShopApp\WFClient\obj\Debug\WFClient.csproj.CoreCompileInputs.cache
+D:\MVS\III year\MyOnlineShopApp\WFClient\obj\Debug\WFClient.csproj.CopyComplete
+D:\MVS\III year\MyOnlineShopApp\WFClient\obj\Debug\WFClient.exe
+D:\MVS\III year\MyOnlineShopApp\WFClient\obj\Debug\WFClient.pdb

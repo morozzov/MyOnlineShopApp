@@ -1,0 +1,72 @@
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\obj\Debug\DbWorker.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\obj\Debug\DbWorker.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\DbWorker.dll.config
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\DbWorker.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\DbWorker.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\DbEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\ExceptionEntities.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\Google.Protobuf.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\MySql.Data.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\Renci.SshNet.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\System.Buffers.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\System.Memory.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\Zstandard.Net.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\DbEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\ExceptionEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\Google.Protobuf.pdb
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\Google.Protobuf.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\MySql.Data.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\Renci.SshNet.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\System.Buffers.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\System.Memory.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\obj\Debug\DbWorker.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\obj\Debug\DbWorker.dll
+C:\Users\R M G\Desktop\MyOnlineShopApp\DbWorker\obj\Debug\DbWorker.pdb
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\DbWorker.dll.config
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\DbWorker.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\DbWorker.pdb
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\BouncyCastle.Crypto.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\DbEntities.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\ExceptionEntities.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\Google.Protobuf.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Compression.LZ4.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Hash.xxHash.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\MySql.Data.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\Newtonsoft.Json.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\Renci.SshNet.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\System.Buffers.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\System.Memory.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\Ubiety.Dns.Core.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\Zstandard.Net.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\DbEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\ExceptionEntities.pdb
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\Google.Protobuf.pdb
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\Google.Protobuf.xml
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Compression.LZ4.xml
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\K4os.Hash.xxHash.xml
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\MySql.Data.xml
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\Newtonsoft.Json.xml
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\Renci.SshNet.xml
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\System.Buffers.xml
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\System.Memory.xml
+D:\MVS\III year\MyOnlineShopApp\DbWorker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MVS\III year\MyOnlineShopApp\DbWorker\obj\Debug\DbWorker.csprojAssemblyReference.cache
+D:\MVS\III year\MyOnlineShopApp\DbWorker\obj\Debug\DbWorker.csproj.CoreCompileInputs.cache
+D:\MVS\III year\MyOnlineShopApp\DbWorker\obj\Debug\DbWorker.csproj.CopyComplete
+D:\MVS\III year\MyOnlineShopApp\DbWorker\obj\Debug\DbWorker.dll
+D:\MVS\III year\MyOnlineShopApp\DbWorker\obj\Debug\DbWorker.pdb
